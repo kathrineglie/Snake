@@ -1,0 +1,6 @@
+Jeg har lagt til en startmeny i spillet mitt hvor du kan velge der å gå inn i informasjonsmodus, highscore, avslutte spillet eller starte spillet
+Jeg la til slik at når man trykker på start-knappen går man automatisk ut av info  modus og inn i spillet
+Jeg lagde eplet slik at det er en sirkel istedenfor en firkant
+Jeg la til at highscoren din vises på slutten av spillet for så å bli lagt inn i listen med highscores på hovedmenyen og viser din høyeste highscore
+Jeg la til en restart knapp når du taper
+Jeg har en egen fil med testene, men de funket ikke i denne egne filen, men de funket i main. 
